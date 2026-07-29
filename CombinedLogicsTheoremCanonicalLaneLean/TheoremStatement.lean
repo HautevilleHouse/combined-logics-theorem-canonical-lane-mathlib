@@ -1,0 +1,11 @@
+import HautevilleHouse.CombinedLogicsTheoremCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace CombinedLogicsTheoremCanonicalLaneLean
+
+structure CombinedLogicsAdmittedObject where
+  statement : Prop
+  conclusion : statement
+
+end CombinedLogicsTheoremCanonicalLaneLean
+end HautevilleHouse

@@ -1,0 +1,16 @@
+import CombinedLogicsTheoremCanonicalLaneLean.AdmissibleClass
+import CombinedLogicsTheoremCanonicalLaneLean.BridgeLemmas
+import CombinedLogicsTheoremCanonicalLaneLean.GateLemmas
+import CombinedLogicsTheoremCanonicalLaneLean.FinalTheorem
+import CombinedLogicsTheoremCanonicalLaneLean.CombinedLogicsDomainObjects
+import CombinedLogicsTheoremCanonicalLaneLean.FragmentSemantics
+import CombinedLogicsTheoremCanonicalLaneLean.AdmissibilityClassification
+
+namespace HautevilleHouse
+namespace CombinedLogicsTheoremCanonicalLaneLean
+
+def sourceRepository : String := "combined-logics-canonical-lane"
+def sourceDescription : String := "Combined Logics Theorem Canonical Lane"
+
+end CombinedLogicsTheoremCanonicalLaneLean
+end HautevilleHouse
